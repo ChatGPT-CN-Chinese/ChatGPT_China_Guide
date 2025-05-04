@@ -1,6 +1,6 @@
 # ChatGPT 中文版：国内免费使用指南（支持GPT-4、GPT-4o、GPT-3.5、DeepSeek R1，无需翻墙）【5月最新更新】
 
-> **更新时间： 2025/05/04**    
+> **更新时间： 2025/05/04**     
 
 本文将为您提供全面的 **[ChatGPT 中文版](https://snakegpt.chat)** 使用指南，推荐国内镜像网站，特别是 **[gptcat.cc](https://gptcat.cc)**，它支持众多强大模型，包括 GPT-4、GPT-4o、GPT-3.5、GPT-o3、GPT-o3mini、GPT-o4mini 以及其他诸如 Claude 和 DeepSeek 等先进模型，所有功能无需翻墙即可稳定访问。
 
