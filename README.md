@@ -1,14 +1,14 @@
 # ChatGPT 中文版：国内免费使用指南（支持GPT-4、GPT-4o、GPT-3.5、DeepSeek R1，无需翻墙）【5月最新更新】
 
-> **更新时间： 2025/05/13**         
+> **更新时间： 2025/05/14**         
 
-本文将为您提供全面的 **[ChatGPT 中文版](https://snakegpt.chat)** 使用指南，推荐国内镜像网站，特别是 **[gptcat.cc](https://gptcat.cc)**，它支持众多强大模型，包括 GPT-4、GPT-4o、GPT-3.5、GPT-o3、GPT-o3mini、GPT-o4mini 以及其他诸如 Claude 和 DeepSeek 等先进模型，所有功能无需翻墙即可稳定访问。
+本文将为您提供全面的 **[ChatGPT 中文版](https://snakegpt.com.cn)** 使用指南，推荐国内镜像网站，特别是 **[chat2.gptcat.cc](https://chat2.gptcat.cc)**，它支持众多强大模型，包括 GPT-4、GPT-4o、GPT-3.5、GPT-o3、GPT-o3mini、GPT-o4mini 以及其他诸如 Claude 和 DeepSeek 等先进模型，所有功能无需翻墙即可稳定访问。
 
 ---
 
 ## 📋 目录
 1. [什么是 ChatGPT 中文版？](#什么是-chatgpt-中文版)
-2. [gptcat.cc：最全模型支持推荐](#gptcatcc最全模型支持推荐)
+2. [chat2.gptcat.cc：最全模型支持推荐](#gptcatcc最全模型支持推荐)
 3. [国内可用的 ChatGPT 中文版推荐](#国内可用的-chatgpt-中文版推荐)
 4. [ChatGPT 中文版与官网的区别](#chatgpt-中文版与官网的区别)
 5. [为什么选择 ChatGPT 中文版？](#为什么选择-chatgpt-中文版)
@@ -22,7 +22,7 @@
 
 ## 什么是 ChatGPT 中文版？
 
-**[ChatGPT 中文版](https://snakegpt.chat)** 是 OpenAI 开发的 ChatGPT 模型中文优化版本，专为中文用户提供更加流畅和精准的对话体验。  
+**[ChatGPT 中文版](https://snakegpt.com.cn)** 是 OpenAI 开发的 ChatGPT 模型中文优化版本，专为中文用户提供更加流畅和精准的对话体验。  
 与官方版本相比，中文版有以下几个特点：
 - **中文优化**：更符合中文语境和表达习惯，提升了中文对话的流畅度。
 - **本地化访问**：通过国内镜像网站实现，无需翻墙即可稳定访问。
@@ -30,9 +30,9 @@
 
 ---
 
-## gptcat.cc：最全模型支持推荐
+## chat2.gptcat.cc：最全模型支持推荐
 
-**[gptcat.cc](https://gptcat.cc)** 是目前国内最全面的 ChatGPT 中文版镜像网站之一，支持多种强大的模型，包括：
+**[chat2.gptcat.cc](https://chat2.gptcat.cc)** 是目前国内最全面的 ChatGPT 中文版镜像网站之一，支持多种强大的模型，包括：
 - **GPT-4**：最强大的通用模型，适用于各种高要求的对话和任务。
 - **GPT-4o**：最新升级版，支持高级功能，如高级绘图、复杂推理等。
 - **GPT-3.5**：经典版，适合日常对话和简单问题解答。
@@ -43,7 +43,7 @@
 - **DeepSeek**：用于深度问题分析和技术内容的生成。
 - **Gemini**：Google 最新发布的对话模型，具有更高的自然语言理解能力。
 
-gptcat.cc 不仅支持这些模型，而且还提供 **GPT-4o** 高级绘图功能，用户可以直接生成高质量的图像。无论是个人使用还是专业需求，gptcat.cc 都是理想的选择。
+chat2.gptcat.cc 不仅支持这些模型，而且还提供 **GPT-4o** 高级绘图功能，用户可以直接生成高质量的图像。无论是个人使用还是专业需求，chat2.gptcat.cc 都是理想的选择。
 
 ---
 
@@ -53,8 +53,8 @@ gptcat.cc 不仅支持这些模型，而且还提供 **GPT-4o** 高级绘图功�
 
 | **镜像站地址**       | **支持版本**            | **免费额度** | **注册方式**         | **稳定性** | **功能亮点**                                  |
 |----------------------|------------------------|--------------|---------------------|------------|---------------------------------------------|
-| [gptcat.cc](https://gptcat.cc)         | GPT-4, GPT-4o, GPT-3.5, GPT-o3, GPT-o3mini, GPT-o4mini, Claude, DeepSeek, Gemini | 免费额度提供 | 国内邮箱支持         | ⭐⭐⭐⭐⭐    | 最全模型支持，含高级绘图功能，适合开发者与普通用户 |
-| [snakegpt.chat](https://snakegpt.chat)   | GPT-4, GPT-3.5, DeepSeek R1, GPT-o3 | 免费额度提供    | 国内邮箱支持         | ⭐⭐⭐⭐⭐    | 支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
+| [chat2.gptcat.cc](https://chat2.gptcat.cc)         | GPT-4, GPT-4o, GPT-3.5, GPT-o3, GPT-o3mini, GPT-o4mini, Claude, DeepSeek, Gemini | 免费额度提供 | 国内邮箱支持         | ⭐⭐⭐⭐⭐    | 最全模型支持，含高级绘图功能，适合开发者与普通用户 |
+| [snakegpt.com.cn](https://snakegpt.com.cn)   | GPT-4, GPT-3.5, DeepSeek R1, GPT-o3 | 免费额度提供    | 国内邮箱支持         | ⭐⭐⭐⭐⭐    | 支持 GPT-4o，内置 MJ 绘图，适合开发者与普通用户 |
 | [ai-panda.xyz](https://ai-panda.xyz/login?invite_code=34137c47) | GPT-4, GPT-3.5 | 免费额度提供    | 国内邮箱支持         | ⭐⭐⭐⭐     | 提供长时间服务，支持开发者 API                |
 | [gptdog.online](https://gptdog.online)   | GPT-3.5               | 免费额度提供    | 国内邮箱支持         | ⭐⭐⭐      | 简单易用，适合基础聊天需求                     |
 
@@ -70,7 +70,7 @@ gptcat.cc 不仅支持这些模型，而且还提供 **GPT-4o** 高级绘图功�
 | **免费使用**     | 免费额度有限，需购买付费套餐   | 部分镜像站提供免费额度          |
 | **注册流程**     | 需海外手机号注册              | 支持国内邮箱或手机号快速注册   |
 
-**总结**：如果您希望体验官方的 ChatGPT，可以选择 **ChatGPT 官网**；如果您希望更快捷的中文服务，推荐使用 **[gptcat.cc](https://gptcat.cc)**，它支持最全面的模型并提供高级绘图等功能。
+**总结**：如果您希望体验官方的 ChatGPT，可以选择 **ChatGPT 官网**；如果您希望更快捷的中文服务，推荐使用 **[chat2.gptcat.cc](https://chat2.gptcat.cc)**，它支持最全面的模型并提供高级绘图等功能。
 
 ---
 
@@ -98,7 +98,7 @@ ChatGPT 中文版专为中文用户优化，提供更流畅、更精准的中文
 ## 如何快速开始使用 ChatGPT 中文版
 
 ### **方法一：通过镜像网站快速体验**
-1. 选择一个镜像站（如 [gptcat.cc](https://gptcat.cc)）。
+1. 选择一个镜像站（如 [chat2.gptcat.cc](https://chat2.gptcat.cc)）。
 2. **注册或直接使用**：
    - 注册：使用邮箱和密码创建账户。
    - 免注册：直接进入聊天界面，输入问题即可获取回答。
@@ -112,8 +112,8 @@ ChatGPT 中文版专为中文用户优化，提供更流畅、更精准的中文
 1. **ChatGPT 中文版和官网有何不同？**  
    中文版专为国内用户优化，通过镜像站提供更快、更稳定的访问，而官网需要翻墙访问。
 
-2. **gptcat.cc 是否支持 GPT-4o？**  
-   是的，gptcat.cc 支持 GPT-4o、GPT-o3、GPT-o3mini 和其他先进模型，包括高级绘图功能。
+2. **chat2.gptcat.cc 是否支持 GPT-4o？**  
+   是的，chat2.gptcat.cc 支持 GPT-4o、GPT-o3、GPT-o3mini 和其他先进模型，包括高级绘图功能。
 
 3. **ChatGPT 中文版是否免费使用？**  
    部分镜像站提供免费额度，但部分高级功能需要付费。
